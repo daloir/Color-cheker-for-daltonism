@@ -1,0 +1,5 @@
+opencv-python==4.5.3.56
+numpy==1.21.2
+Pillow==8.3.2
+matplotlib==3.4.3
+tkinter==8.6
